@@ -39,3 +39,4 @@ kubectl create secret generic whr-credentials \
 Please note that once you close this window you will not be able to see the token secret again as it is now encrypted. If you lose your secret, just generate a new token.
 
 12
+13
